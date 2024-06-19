@@ -1,0 +1,58 @@
+body{padding-left:00px; 
+   padding-right:00px; 
+   background-image: url('Card.png'); 
+   background-size:110%; 
+   background-repeat:no-repeat; 
+   background-posistion:center;
+   background-attachment: scroll;
+background-attachment: fixed; padding-bottom: 20px"}
+
+{div1"background-color:#193B3F; width:1000px; margin:auto; padding-left:50px; 
+padding-right:50px; padding-top: 50px; background-color:rgba(25,59,63,0.6);"}
+   
+   div2 {"opacity:1;"}
+h1 {"font-family:Showcard Gothic;color:white; 
+text-align:center;"}
+ All about me!
+ 
+hr {"height:5px;
+background-color:white;
+bored-radius: 20px"}
+
+	p {"font-family:Georgia;color:White;border-style:double;border-width:5px;padding:10px;"}
+I am Mavin, I like Purple, my favorite character is Xiao. <br>
+In my free time I play games such as genshin impact,<br> 
+Honkai star rail and wuthering waves.<br>
+I also have a youtube channel called 'Raspberry Fruits'.<br>
+Other than gaming, I also love to draw.{br}
+
+ol {"font-family:Georgia;border-style:double;border-width:5px;border-padding:10px; padding-left:30px; padding-top:10px paddin-bottom:10px;color:white;"}
+My Favorite Animes<br><br>
+.first{
+	color: yellow	
+}
+.second{
+	color: pink
+	
+}
+
+.third{
+	color:purple
+	
+}
+.fourth{
+	color: red
+	
+}
+
+.fifth{
+	color: orange
+	
+}
+
+.sixth{
+	 color: pink
+	
+	
+	
+}
